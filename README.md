@@ -9,5 +9,6 @@ Nota: los archivos se iran actualizando en un periodo de tiempo
 Aspectos a integrar
 
 -log de errores
+
 -log del estado del disco
 
